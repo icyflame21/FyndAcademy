@@ -1,1 +1,1 @@
-# FyndAcademy
+# Fynd Academy
